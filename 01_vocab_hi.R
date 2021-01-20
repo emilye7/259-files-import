@@ -6,6 +6,7 @@ rm(list = ls()) #clean variables out of environment
 
 ds <- read_csv('vocab.csv')
 getwd()
+#hi
 
 #Read the data file (all defaults work so all we need is a filename)
 ds <- read_csv('data_raw/vocab.csv')
